@@ -101,7 +101,3 @@ public class TestVehicle {
     scan.close();
     }
 }
-
-
-
-
